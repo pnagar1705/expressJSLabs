@@ -1,0 +1,26 @@
+{
+  "name": "expressjslabs",
+  "version": "1.0.0",
+  "description": "express js tutrials hands on",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnagar1705/expressJSLabs.git"
+  },
+  "keywords": [
+    "expressjs",
+    "beginners"
+  ],
+  "author": "Prateek Nagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnagar1705/expressJSLabs/issues"
+  },
+  "homepage": "https://github.com/pnagar1705/expressJSLabs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
